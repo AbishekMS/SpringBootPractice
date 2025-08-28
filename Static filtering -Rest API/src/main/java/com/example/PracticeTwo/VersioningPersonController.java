@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class VersioningPersonController {
+public class FilteringPersonController {
 	
 	@GetMapping("/staticBinding-JsonIgnore")
 	public Person2 staticBindingWithJsonIgnore() {
@@ -17,3 +17,4 @@ public class VersioningPersonController {
 	}
 	
 }
+
