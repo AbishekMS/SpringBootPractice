@@ -5,3 +5,5 @@
      Write a lot of SQL Queries (select * from course where id=?) but lesser Java code.  
 **JPA:**
     Don't worry about queries just just map entity to table.  
+**SPRING DATA JPA:** 
+    Further more reduces the code than JPA.
